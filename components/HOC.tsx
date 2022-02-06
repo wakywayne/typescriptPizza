@@ -38,6 +38,8 @@ export const WithAddToCartProps: React.FC<{
         })
     }
 
+    // Can you please show me exactly what it is that needs to be done here? 
+    // I don;t understand what addToCart is supposed to equal and if I can make it equal to anything randomly, then I don't understand what value it holds?
 
     return children({ addToCart });
 }
